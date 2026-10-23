@@ -29,5 +29,7 @@ public class SiakadFor24 {
         System.out.println("Nilai terendah: " + terendah);
         System.out.println("Jumlah mahasiswa lulus: " + jumlahLulus);
         System.out.println("Jumlah mahasiswa tidak lulus: " + jumlahTidakLulus);
+
+        sc.close();
     }
 }
